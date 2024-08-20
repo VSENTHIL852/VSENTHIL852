@@ -25,7 +25,7 @@ B.TECH CSBS Student @ KRCE
 [![GitHub Streak](https://streak-stats.demolab.com?user=VSENTHIL852&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
-
+![VSENTHIL852's Stats](https://github-readme-stats.vercel.app/api?username=VSENTHIL852&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 
 
