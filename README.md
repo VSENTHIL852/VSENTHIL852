@@ -22,7 +22,6 @@ B.TECH CSBS Student @ KRCE
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vsenthilk48?theme=light&font=Marcellus%20SC&ext=contest)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=VSENTHIL852&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
