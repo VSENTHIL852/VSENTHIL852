@@ -27,5 +27,14 @@ B.TECH CSBS Student @ KRCE
 
 ![VSENTHIL852's Stats](https://github-readme-stats.vercel.app/api?username=VSENTHIL852&theme=default&show_icons=true&hide_border=true&count_private=true)
 
+name: Test
 
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: ouzi-dev/commit-status-updater@v2
 
